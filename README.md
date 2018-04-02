@@ -1,5 +1,5 @@
 # Disco(nnect)-fun
-Set of server side tools for enhance disconnect.tcl (from cisco scripts.com) script functionality.
+Set of server side tools for enhance disconnect.tcl (from ciscoscripts.com) script functionality.
 
 # Install
 1. Get Russian jokes from here ore another place *magnet:?xt=urn:btih:5a255d3595ce92b429398e6e7acd6ecdbb507de1*
