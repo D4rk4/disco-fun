@@ -2,7 +2,7 @@
 Set of server side tools for enhance disconnect.tcl (from ciscoscripts.com) script functionality.
 
 # Install
-1. Get Russian jokes from here ore another place *magnet:?xt=urn:btih:5a255d3595ce92b429398e6e7acd6ecdbb507de1*
+1. Get Russian jokes from here or another place *magnet:?xt=urn:btih:5a255d3595ce92b429398e6e7acd6ecdbb507de1*
 2. Move all MP3s to one folder, for example me use /export/tmp/mp3
 3. Transcode with ffmpeg and *ulaw.sh* all jokes tracks to g711ulaw au files
 4. Copy jokes in g711ulaw wave format to web server, for example to /var/www/html/disconnect/
